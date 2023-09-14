@@ -1,0 +1,21 @@
+
+print ("Complete Name: Per Virgil B. Wabe")
+print ("Course: BSCS")
+print ("Section: CS1D")
+print ("Age: 18")
+print ("Birthday: February 9, 2005 ")
+print ("Complete Home Address: B21 L14 Cedar St. Lessandra Heights Lumbia CDOC")
+
+print ("Complete Name: Mariel P. Laplap")
+print ("Course: BSCS")
+print ("Section: CS1D")
+print ("Age: 18")
+print ("Birthday: May 4, 2005")
+print ("Complete Home Address: St. Francis Street, NHA Kauswagan")
+
+print ("Complete Name: Yasser Mua Tomawis")
+print ("Course: BSCS")
+print ("Section: CS1D")
+print ("Age: 19")
+print ("Birthday: March 7, 2004")
+print ("Complete Home Address: Villamar Subd., Brgy. Iponan")
